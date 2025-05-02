@@ -88,11 +88,11 @@
 /* LABELS AND STUFF */
 /* make latest move indicator red */
 .shudan-vertex.shudan-marker_point.shudan-sign_-1 .shudan-marker {
-    background: #b90202;
+    fill: #b90202;
     filter: drop-shadow(0px 0px 0.04em #b90202)
 }
 .shudan-vertex.shudan-marker_point.shudan-sign_1 .shudan-marker {
-    background: #b90202;
+    fill: #b90202;
     filter: drop-shadow(0px 0px 0.04em #b90202)
 }
 
