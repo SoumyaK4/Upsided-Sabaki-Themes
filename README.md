@@ -20,21 +20,21 @@ There is also [a non-animated version](https://github.com/jdriselvato/Hikaru-2-S
 ## BadukTV
 Looks like a broadcast.
 
-[Download](https://github.com/upsided/upsided-sabaki-themes/raw/main/packs/baduktv.asar)
+[Download](https://github.com/soumyak4/upsided-sabaki-themes/raw/main/packs/baduktv.asar)
 
 ![BadukTV Screenshot](./baduktv/baduktv-screenshot.jpg)
 
 ## BadukTV (grunge)
 Just like BadukTV, except the stones need washing. 
 
-[Download](https://github.com/upsided/upsided-sabaki-themes/raw/main/packs/baduktv-grunge.asar)
+[Download](https://github.com/soumyak4/upsided-sabaki-themes/raw/main/packs/baduktv-grunge.asar)
 
 ![BadukTV Grunge Screenshot](./baduktv-grunge/baduktv-grunge-screenshot.jpg)
 
 ## BadukTV (animated)
 As requested on Reddit, it's BadukTV, but with animated stone placement. 
 
-[Download](https://github.com/upsided/upsided-sabaki-themes/raw/main/packs/baduktv-animated.asar)
+[Download](https://github.com/soumyak4/upsided-sabaki-themes/raw/main/packs/baduktv-animated.asar)
 
 ![BadukTV Animated Screenshot](./baduktv/baduktv-screenshot.jpg)
 
